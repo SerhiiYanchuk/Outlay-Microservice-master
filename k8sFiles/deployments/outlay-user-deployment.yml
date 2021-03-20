@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: outlay-user-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: outlay-user-pod
+  template:
+    metadata:
+      labels:
+        app: outlay-user-pod
+    spec:
+      containers:
+      - name: outlay-user-container
+        image: serhii11yanchuk/outlay-users:v1
+        resources:
+          limits:
+            memory: "128Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 80
