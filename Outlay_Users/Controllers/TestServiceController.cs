@@ -27,7 +27,7 @@ namespace Outlay_Users.Controllers
         public string GetService()
         {
             string responseString = "";
-            string url = "http://localhost/api/service";
+            string url = "http://outlay-notbroken-service:8080/api/service";
             double totalTime = 0;
             DateTime CurDate = DateTime.Now;
 
@@ -46,13 +46,12 @@ namespace Outlay_Users.Controllers
                             responseString += reader.ReadToEnd();
                         }
                     }
-                    response.Close();
-                    
+                    response.Close();                    
                 }
             }
             catch (System.Exception)
             {
-                responseString = "Error occured!";
+                responseString += "Error occured!";
             }
 
             TimeSpan span = DateTime.Now - CurDate;
