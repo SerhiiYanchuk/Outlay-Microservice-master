@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cardmicroservice-deployment
+spec:
+  selector:
+    matchLabels:
+      app: cardmicroservice-pod
+  template:
+    metadata:
+      labels:
+        app: cardmicroservice-pod
+    spec:
+      containers:
+      - name: cardmicroservice-container
+        image: dockermicroserv/cardmicroservice:latest
+        imagePullPolicy: Never
+        resources:
+          limits:
+            memory: "128Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 80

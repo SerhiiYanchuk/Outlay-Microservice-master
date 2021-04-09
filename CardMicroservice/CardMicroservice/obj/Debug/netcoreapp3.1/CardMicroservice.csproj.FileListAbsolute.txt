@@ -1,0 +1,327 @@
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.csprojAssemblyReference.cache
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.AssemblyInfoInputs.cache
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.AssemblyInfo.cs
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.csproj.CoreCompileInputs.cache
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\CardMicroservice.exe
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\CardMicroservice.deps.json
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\CardMicroservice.runtimeconfig.json
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\CardMicroservice.runtimeconfig.dev.json
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\CardMicroservice.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\CardMicroservice.pdb
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CardMicroservice.StaticWebAssets.Manifest.cache
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CardMicroservice.StaticWebAssets.xml
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\CardMicroservice.styles.css
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.RazorTargetAssemblyInfo.cache
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.csproj.CopyComplete
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.dll
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.pdb
+D:\Проекти\Microservices Core\Cards\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.genruntimeconfig.cache
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\CardMicroservice.exe
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\CardMicroservice.deps.json
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\CardMicroservice.runtimeconfig.json
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\CardMicroservice.runtimeconfig.dev.json
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\CardMicroservice.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\CardMicroservice.pdb
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Confluent.Kafka.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\librdkafka.so
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\alpine-librdkafka.so
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\centos6-librdkafka.so
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\centos7-librdkafka.so
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\librdkafka.so
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\librdkafka.dylib
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\librdkafka.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\librdkafkacpp.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libzstd.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp120.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcr120.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\zlib.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\librdkafka.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\librdkafkacpp.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libzstd.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp120.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcr120.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\zlib.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.csprojAssemblyReference.cache
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.AssemblyInfoInputs.cache
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.AssemblyInfo.cs
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.csproj.CoreCompileInputs.cache
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CardMicroservice.StaticWebAssets.Manifest.cache
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CardMicroservice.StaticWebAssets.xml
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\CardMicroservice.styles.css
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.RazorTargetAssemblyInfo.cache
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.csproj.CopyComplete
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.dll
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.pdb
+E:\Projects\VScode\Outlay-Microservice-main\CardMicroservice\CardMicroservice\obj\Debug\netcoreapp3.1\CardMicroservice.genruntimeconfig.cache

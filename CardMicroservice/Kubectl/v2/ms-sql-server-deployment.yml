@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ms-sql-server-deployment
+spec:
+  selector:
+    matchLabels:
+      app: ms-sql-server-pod
+  template:
+    metadata:
+      labels:
+        app: ms-sql-server-pod
+    spec:
+      containers:
+      - name: ms-sql-server-container
+        image: dockermicroserv/microservdatabase:latest
+        resources:
+          limits:
+            memory: "128Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 1433

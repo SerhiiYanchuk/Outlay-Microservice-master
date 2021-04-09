@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OvwuESZ1R3PqCDgnhSyVvPUBmIhs4fR7yRyXW9atMGm4WFUJUzp5NfMLPGaLXSbJ6WOjYdzNPrZfUCIOnErzGQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\VScode\\Outlay-Microservice-main\\ProducerMicroservice\\ProducerMicroservice\\ProducerMicroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SerhiiYanchuk\\.nuget\\packages\\confluent.kafka\\1.6.3\\confluent.kafka.1.6.3.nupkg.sha512",
+    "C:\\Users\\SerhiiYanchuk\\.nuget\\packages\\librdkafka.redist\\1.6.1\\librdkafka.redist.1.6.1.nupkg.sha512",
+    "C:\\Users\\SerhiiYanchuk\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,39 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations:
+    kompose.cmd: C:\Kubernetes\kompose.exe convert
+    kompose.version: 1.21.0 (992df58d8)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: card-api
+  name: card-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      io.kompose.service: card-api
+  strategy: {}
+  template:
+    metadata:
+      annotations:
+        kompose.cmd: C:\Kubernetes\kompose.exe convert
+        kompose.version: 1.21.0 (992df58d8)
+      creationTimestamp: null
+      labels:
+        io.kompose.service: card-api
+    spec:
+      containers:
+      - env:
+        - name: DBServer
+          value: ms-sql-server
+        image: dockermicroserv/cardmicroservice:latest
+        imagePullPolicy: ""
+        name: card-api
+        ports:
+        - containerPort: 80
+        resources: {}
+      restartPolicy: Always
+      serviceAccountName: ""
+      volumes: null
+status: {}
